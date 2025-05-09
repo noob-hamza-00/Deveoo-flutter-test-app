@@ -23,7 +23,7 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
 ## Installation Steps
  - You should have some softwares installed on your computer which in my case, i had already installed including Android Studio (from where you can get your own virtual device in its device manager) and Flutter SDK (which is a software development kit which provides essential libraries, tools and frameworks which one can use to develop, build and finally run ones flutter app by hitting some flutter run and build commands), and Git and Visual Studio Code.
 
- - **Flutter Commands**
+  - ## Flutter Commands
     First of all remember you should check whether all your flutter and git and every other kit are added in the path as in the system environmental variables!!!
     And while setting up your AVD in the android Studio go in the tool and then SDK manager tools and packages and make sure to download Android SDK command line updates and you can surely check if everything is completely ready by running:
 
@@ -36,34 +36,34 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
     i made the directory and then named my flutter app as deveoo_flutter_app and make sure to put the http latest package in the pubspec.yaml file.
     then run:
     
-      CMD: flutter pub get
+     **CMD: flutter pub get**
     
-      CMD: flutter run
+     **CMD: flutter run**
     
 
     Now start coding the app...
 
  3. if you want to check on which device you want to run then run the following command:
     
-      CMD: flutter devices
+      **CMD: flutter devices**
     
     what it will show is basically the chrome, edge and Windwos... ALL you have to choose one!
 
  5. So if you have started your AVD on the emulator then you can check if its running using:
     
-      CMD: flutter emulators
+      **CMD: flutter emulators**
     
     then it shows your emulator id then hit the following command to run it.
     
-      CMD: flutter run -d your emulator id
+      **CMD: flutter run -d your emulator id**
 
  7. Now if you want to see your app on chrome then hit.
   
-      CMD: flutter run -d chrome
+      **CMD: flutter run -d chrome**
 
  9. Now the fun moment begins when you can finally build your apk which you can install in your own personal smartphones. For this run this:
      
-      CMD: flutter build apk --split-per-abi --release
+      **CMD: flutter build apk --split-per-abi --release**
     
     it would build different apks and you can choose one desired for your own architechture like in my case "arm64"
 
