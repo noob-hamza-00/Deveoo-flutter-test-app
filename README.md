@@ -27,31 +27,43 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
     First of all remember you should chech whether all your flutter and git and every other kit are added in the path as in the system environmental variables!!!
     And while setting up your AVD in the android Studio go in the tool and then SDK manager tools and packages and make sure to download Android SDK command line updates and you can surely check if everything is completely ready by running:
       CMD: flutter doctor
+   
     it will diagnose your machine and guide you to download every kit required to build the flutter app.
 
  1. Then go in the desired directory where you want to build your flutter app like in my case it was like:
       C:\Users\Hamza\OneDrive\Desktop\DeveooIntern\deveoo_flutter_app
     i made the directory and then named my flutter app as deveoo_flutter_app and make sure to put the http latest package in the pubspec.yaml file.
     then run:
+    
       CMD: flutter pub get
+    
       CMD: flutter run
+    
 
     Now start coding the app...
 
- 2. if you want to check on which device you want to run then run the following command:
+ 3. if you want to check on which device you want to run then run the following command:
+    
       CMD: flutter devices
+    
     what it will show is basically the chrome, edge and Windwos... ALL you have to choose one!
 
- 3. So if you have started your AVD on the emulator then you can check if its running using:
+ 5. So if you have started your AVD on the emulator then you can check if its running using:
+    
       CMD: flutter emulators
+    
     then it shows your emulator id then hit the following command to run it.
+    
       CMD: flutter run -d your emulator id
 
- 4. Now if you want to see your app on chrome then hit.
+ 7. Now if you want to see your app on chrome then hit.
+ 8. 
       CMD: flutter run -d chrome
 
- 5. Now the fun moment begins when you can finally build your apk which you can install in your own personal smartphones. For this run this:
+ 9. Now the fun moment begins when you can finally build your apk which you can install in your own personal smartphones. For this run this:
+     
       CMD: flutter build apk --split-per-abi --release
+    
     it would build different apks and you can choose one desired for your own architechture like in my case "arm64"
 
    
