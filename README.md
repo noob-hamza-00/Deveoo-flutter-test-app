@@ -70,7 +70,7 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
 
 ## Note!!!
 
-## Click the first RESULTS tab to see the APP UI 
+## Click the first RESULTS tab in app tree to see the APP UI 
 
 **All the screenshots of emulator, Chrome, and APK running my app are in the first RESULTS tab**
 
