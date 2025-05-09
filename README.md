@@ -15,7 +15,7 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
 - **Bottom Navigation**: Bottom nav-bar with "Home" and "About" tabs.
 
 
--------------- EXTRA TABS FOR SMOOTHNESS TO MAKE A PROPER APP BUT STILL NOT REQUIRED !!! -------------------
+-------------- EXTRA TABS FOR SMOOTHNESS TO MAKE A PROPER APP BUT STILL NOT REQUIRED !!! ------------------
 
 - **Splash Screen**: Added an extra splash welcome saying "Deveoo Flutter Intern Test App"
 - **Drawer**: Added an extra drawer too just for the smoothness and shows the same 'home' and 'about' tabs.
