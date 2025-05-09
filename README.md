@@ -67,6 +67,17 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
     
     it would build different apks and you can choose one desired for your own architechture like in my case "arm64"
 
+## Apk results:
+
+
+
+![apk_splash (1)](https://github.com/user-attachments/assets/59f69692-806b-41e6-86b6-3ba476ecfb06)
+
+
+
+
+
+
    
 ## Contact me:
    - **Email**: mijaz.bee22seecs@seecs.edu.pk
