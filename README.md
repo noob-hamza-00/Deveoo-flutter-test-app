@@ -87,4 +87,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-[text](<../../../../Downloads/app-arm64-v8a-release (1).apk>)"# Deveoo-flutter-intern-app" 
