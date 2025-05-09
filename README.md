@@ -45,7 +45,7 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
  3. So if you have started your AVD on the emulator then you can check if its running using:
       CMD: flutter emulators
     then it shows your emulator id then hit the following command to run it.
-      CMD: flutter run -d <your emulator id> 
+      CMD: flutter run -d your emulator id
 
  4. Now if you want to see your app on chrome then hit.
       CMD: flutter run -d chrome
