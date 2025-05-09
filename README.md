@@ -71,8 +71,7 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
 
 
 
-![apk_splash (1)](https://github.com/user-attachments/assets/59f69692-806b-41e6-86b6-3ba476ecfb06)
-
+![Post_Cards](https://github.com/user-attachments/assets/d0063125-6482-469a-8e8e-6871c53d77ff)
 
 
 
