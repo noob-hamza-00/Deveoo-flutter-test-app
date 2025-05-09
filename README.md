@@ -71,7 +71,20 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
 
 
 
+**Click the first RESULTS tab to see the app UI**
+
+**All the screenshots of AVD emulator, Chrome, and APK are in the first RESULTS tab**
+
+
+
 ![Post_Cards](https://github.com/user-attachments/assets/d0063125-6482-469a-8e8e-6871c53d77ff)
+
+
+
+
+
+![About_Tab](https://github.com/user-attachments/assets/f169040f-5766-4fa9-9003-3bceb3d510c1)
+
 
 
 
