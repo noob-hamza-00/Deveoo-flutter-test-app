@@ -67,13 +67,12 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
     
     it would build different apks and you can choose one desired for your own architechture like in my case "arm64"
 
-## Apk results:
 
+## Note!!!
 
+## Click the first RESULTS tab to see the APP UI 
 
-**Click the first RESULTS tab to see the app UI**
-
-**All the screenshots of AVD emulator, Chrome, and APK are in the first RESULTS tab**
+**All the screenshots of emulator, Chrome, and APK running my app are in the first RESULTS tab**
 
 
 
