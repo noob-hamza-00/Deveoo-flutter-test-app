@@ -24,7 +24,7 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
  - You should have some softwares installed on your computer which in my case, i had already installed including Android Studio (from where you can get your own virtual device in its device manager) and Flutter SDK (which is a software development kit which provides essential libraries, tools and frameworks which one can use to develop, build and finally run ones flutter app by hitting some flutter run and build commands), and Git and Visual Studio Code.
 
  - **Flutter Commands**
-    First of all remember you should chech whether all your flutter and git and every other kit are added in the path as in the system environmental variables!!!
+    First of all remember you should check whether all your flutter and git and every other kit are added in the path as in the system environmental variables!!!
     And while setting up your AVD in the android Studio go in the tool and then SDK manager tools and packages and make sure to download Android SDK command line updates and you can surely check if everything is completely ready by running:
 
       CMD: flutter doctor
