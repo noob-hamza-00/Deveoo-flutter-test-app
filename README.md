@@ -58,7 +58,7 @@ I basically  used the http package for API calls, MaterialApp for routing, and s
       CMD: flutter run -d your emulator id
 
  7. Now if you want to see your app on chrome then hit.
- 8. 
+  
       CMD: flutter run -d chrome
 
  9. Now the fun moment begins when you can finally build your apk which you can install in your own personal smartphones. For this run this:
