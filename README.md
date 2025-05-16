@@ -1,4 +1,4 @@
-# deveoo_flutter_app
+# flutter_app
 
 So i developed this flutter app which is basucally a single-file application (main.dart) already having experience in React Native Development which is kind of a hybrid developing platform like for this case you dont have to kill bugs in separate adnroid or ios platforms.
 The app starts with a SplashScreen which was not required but for smooth responsiveness i added it for my own satisfaction which displays "Deveoo Flutter Intern Test App" for 3 seconds before navigating to the MainScreen, which serves as the navigation hub with a bonus Bottom Navigation Bar for switching between the HomeScreen and AboutScreen. The HomeScreen uses a ListView.builder to display for the posts: "Post 1" to "Post 10" in from of Card widgets, which we can further tap to open the display screens, which gets the comments from jsonplaceholder.typicode.com using FutureBuilder and before displaying it shows the loading spinner. The About Tab goes to the  personal details page, which i did for the bonus. But i also added the Drawer in the MainScreen which is also not required but it further  provides an additional navigation option.
